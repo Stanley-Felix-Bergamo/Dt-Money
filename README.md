@@ -1,10 +1,8 @@
-# Ignite Feed <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=Está %20Em andamento &color=red&style=for-the-badge"/>
+# Ignite Feed <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=Está %20Pronto &color=green&style=for-the-badge"/>
 
 <div align="center" >
     <img width="725rem" src="https://servidor-estaticos-ten.vercel.app/dt.png" alt="imagem">
 </div>
-
-> Para ver o projeto rodando você pode acessar este [Link](https://dt-money-alpha-one.vercel.app/).
 
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas da Rocketseat 
